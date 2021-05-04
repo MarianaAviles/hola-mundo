@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de pruebas
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Mariana Aviles
 Fecha: 04 de mayo
